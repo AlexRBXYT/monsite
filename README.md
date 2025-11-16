@@ -22,15 +22,3 @@
 
   <main>
     <section class="bio">
-      <h2>Bienvenue sur mon profil</h2>
-      <p>Je suis AlexRBX ! Ici vous pouvez suivre toutes mes activités sur YouTube, TikTok et Twitch.</p>
-      <!-- Photo de profil à ajouter ici -->
-      <div class="profile-pic"></div>
-    </section>
-  </main>
-
-  <footer>
-    <p>&copy; 2025 AlexRBX</p>
-  </footer>
-</body>
-</html>
