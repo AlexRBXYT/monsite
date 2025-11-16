@@ -1,4 +1,3 @@
-# monsite
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -9,6 +8,7 @@
 <body>
   <header>
     <h1>AlexRBX</h1>
+     <h1>Site en cours de construction...(merci de ne pas cliquer sur twitch youtube tiktok contact et acceuil )</h1>
     <nav>
       <ul>
         <li><a href="index.html">Accueil</a></li>
