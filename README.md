@@ -12,7 +12,7 @@
     <nav>
       <ul>
         <li><a href="index.html">Accueil</a></li>
-        <li><a href="youtube.html">YouTube</a></[li]()>
+        <li><a href="youtube.html">YouTube</a>
         <li><a href="tiktok.html">TikTok</a></li>
         <li><a href="twitch.html">Twitch</a></li>
         <li><a href="contact.html">Contact</a></li>
