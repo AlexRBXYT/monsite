@@ -14,3 +14,12 @@
         <li><a href="https://www.youtube.com/@AlexEHYT">YouTube</a>
         <li><a href="https://www.tiktok.com/@cancer06790">TikTok</a></li>
         <li><a href="https://www.twitch.tv/alexrbxxyt">Twitch</a></li>
+<div class="button-zone">
+  <a href="https://www.youtube.com/@AlexRBLXXYT" class="big-btn animated-btn">
+    Ajouter Aether Lock à mon serveur
+  <div class="button-zone">
+  <a href="https://www.youtube.com/@AlexRBLXXYT" class="yotube.html">
+    Ajouter Aether Lock à mon serveur
+  </a>
+</div>
+
