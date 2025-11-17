@@ -10,7 +10,7 @@
      <h1>Site en cours de construction...(merci de ne pas cliquer sur twitch youtube tiktok contact et acceuil )</h1>
     <nav>
       <ul>
-        <li><a href="index.html">Accueil</a>
+        <[li](https://www.youtube.com/@AlexEHYT)><a href="index.html">Accueil</a>
         <li><a href="youtube.html">YouTube</a>
         <li><a href="tiktok.html">TikTok</a></li>
         <li><a href="twitch.html">Twitch</a></li>
