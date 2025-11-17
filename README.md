@@ -12,8 +12,8 @@
       <ul>
         <a href="index.html">Accueil</a>
         <li><a href="https://www.youtube.com/@AlexEHYT">YouTube</a>
-        <li><a href="tiktok.html">TikTok</a></li>
-        <li><a href="twitch.html">Twitch</a></li>
+        <li><a href="https://www.tiktok.com/@cancer06790">TikTok</a></li>
+        <li><a href="https://www.twitch.tv/alexrbxxyt">Twitch</a></li>
         <li><a href="contact.html">Contact</a></li>
   <main>
     <section class="bio">
